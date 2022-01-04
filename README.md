@@ -1,7 +1,7 @@
 # Basketball management system
 
 Basketball management system database schema written in MySQL.
-The schema is based on National Basketball Association (NBA) model.
+The schema is based on National Basketball Association (NBA) model and includes regular season only.
 All of the data included are accurate for the 2020-2021 NBA season and are taken from [basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2021.html).
 
 * * *
